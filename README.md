@@ -5,3 +5,5 @@ Hey there! I'm <b>Neil</b>, a full-stack developer currently working remotely on
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+![Neil Nicholas](assets/WhatsApp Image 2025-02-07 at 11.46.01 AM.jpeg)
