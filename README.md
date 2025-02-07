@@ -6,4 +6,5 @@ Hey there! I'm <b>Neil</b>, a full-stack developer currently working remotely on
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![Neil Nicholas](assets/WhatsApp Image 2025-02-07 at 11.46.01 AM.jpeg)
+![Neil Nicholas]([assets/WhatsApp Image 2025-02-07 at 11.46.01 AM.jpeg](https://github.com/neilnicky/neilnicky/blob/main/assets/WhatsApp%20Image%202025-02-07%20at%2011.46.01%20AM.jpeg))
+assets/WhatsApp Image 2025-02-07 at 11.46.01 AM.jpeg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
