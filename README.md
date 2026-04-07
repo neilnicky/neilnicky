@@ -18,8 +18,8 @@ That includes traveling with intent (not just sightseeing), exploring places thr
 
 ---
 
-I’m always open to collaborating on interesting projects — especially ones that are well thought out and challenging. If you’re building something solid, let’s connect.
-
+I’m always open to collaborating on interesting projects — especially ones that are well thought out and challenging. If you’re building something solid, let’s connect. 🪬
+ 
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
