@@ -14,7 +14,6 @@ Turned out — not even close. The deeper I go, the more I realize how vast this
 
 🌍 <b>Outside of Code</b>  
 I like being in new environments — meeting different kinds of people, experiencing cultures firsthand, and trying things that push me out of routine.  
-
 That includes traveling with intent (not just sightseeing), exploring places through photography, going for treks, and occasionally showing up at rave scenes and other cultural or recreational events — not just for fun, but for the experience and energy.
 
 ---
