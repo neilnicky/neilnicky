@@ -1,5 +1,26 @@
 # 💫 About Me:
-Heyyy!! I'm <b>Neil</b>, a full-stack developer currently working remotely on Next.js-based projects. I'm actively looking to collaborate on innovative and exciting projects where I can work remotely and contribute meaningfully.<br><br>Right now, I'm diving deep into mastering the T3 Stack. It's been an amazing journey so far, but what's funny is how I got into development:<br>My best friend, who's an [expert developer](https://github.com/muadpn), said, 'It's easy, dude, just jump in!' But once I jumped in, I realized just how deep and vast this ocean of tech really is 🌊!<br><br>🎯 <b>Goals & Vision</b><br>Financial Freedom: One of my primary goals is to achieve financial independence through meaningful work and projects.<br>Inspire and Give Back: I hope to inspire others and contribute positively to the world in whatever way I can.<br>🌍 <b>Hobbies & Interests</b><br>Outside of coding, I love trekking, photography, and traveling. Exploring new places and capturing moments through my lens keeps me refreshed and inspired.<br><br>I’m always open to collaborating on exciting projects, especially those that challenge me to grow. If you're working on something amazing, let’s connect and build together!!
+Hey, I’m <b>Neil</b> — a full-stack developer working remotely on Next.js-based projects. I like building clean, scalable systems and collaborating on ideas that actually have real-world impact.
+
+Right now, I’m focused on going deep into the T3 Stack and understanding things beyond surface-level implementation — how they actually work under the hood.
+
+Funny how I got into development:
+A close friend of mine, an expert dev, told me, “It’s easy, just jump in.”
+Turned out — not even close. The deeper I go, the more I realize how vast this space really is.
+
+🎯 <b>Goals & Direction</b>  
+- Building towards financial freedom through meaningful, high-leverage work  
+- Working remotely while collaborating on ambitious and well-built products  
+- Constantly improving how I think, build, and solve problems  
+
+🌍 <b>Outside of Code</b>  
+I like being in new environments — meeting different kinds of people, experiencing cultures firsthand, and trying things that push me out of routine.  
+
+That includes traveling with intent (not just sightseeing), exploring places through photography, going for treks, and occasionally showing up at rave scenes and other cultural or recreational events — not just for fun, but for the experience and energy.
+
+---
+
+I’m always open to collaborating on interesting projects — especially ones that are well thought out and challenging. If you’re building something solid, let’s connect.
+
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
