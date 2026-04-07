@@ -4,7 +4,7 @@ Hey, I’m <b>Neil</b> — a full-stack developer working remotely on Next.js-ba
 Right now, I’m focused on going deep into the T3 Stack and understanding things beyond surface-level implementation — how they actually work under the hood.
 
 Funny how I got into development:
-A close friend of mine, an expert dev, told me, “It’s easy, just jump in.”
+A close friend of mine, an [expert dev](https://github.com/muadpn), told me, “It’s easy, just jump in.”
 Turned out — not even close. The deeper I go, the more I realize how vast this space really is.
 
 🎯 <b>Goals & Direction</b>  
